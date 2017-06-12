@@ -1,0 +1,33 @@
+# Current Brigade Web Properites & Forms
+These are the current websites and forms owned by the Brigade program 
+
+## 'Old' Site - http://brigade.codeforamerica.org/brigade/ 
+This was the old Brigade website that still retains some functionailty as the 'home' of the national network. It has three core functions 
+* Help users find their Brigade (Currently broken) 
+* Help users start a Brigade (Needs updating)
+* Help users find resources for their Brigade (Was removed) 
+
+## 'New' Site -  https://www.codeforamerica.org/join-us/volunteer-with-us 
+This is the 'new' volunteer page for Code for America. It has two core functions 
+* Help users find their Brigade (Currently being done through a CatroDB map) 
+* Help users start a Brigade (Currently being done through a typeform) 
+
+## NDoCH - https://www.codeforamerica.org/events/national-day-2016 / hackforchange.org 
+This is the National Day of Civic Hacking website from last year. It is outdated and needs to be updated. However, the current CMS CfA uses doens't show where to change it. In 2016, it had the following functions. 
+* Finding local events 
+* Finding and participating in challenges (no longer need for 2017)  
+
+## https://brigade-nac.herokuapp.com/ 
+This is a test version of the HQ Brigadehub site that @govintrenches proposes to replace this site with. 
+
+# Brigade Forms Currently in Use 
+These are the forms currently used by the Brigade Program 
+
+## Slack form - https://cfa.typeform.com/to/RfZuFF 
+This form is used by Brigade members looking to join Slack 
+
+## Interest in starting a Brigade - https://cfa.typeform.com/to/uxPQH6
+This form is used by people wanting to start a Brigade; sends email to Christopher for onboarding 
+
+## Brigade Action Team Signup Form https://docs.google.com/forms/d/1L8EUy8mNP7kRtTT9o-BgWQhht9aVw1dAYL2EM7Rkdi8/viewform?edit_requested=true 
+This forms is used to indicate interest in joining a Brigade Action Team 
